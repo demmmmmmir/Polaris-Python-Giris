@@ -1,0 +1,6 @@
+x= int(input('Lütfen iki sayı giriniz:'))
+y= int(input())
+print(f"Girdiğiniz sayıların toplamı: {x + y}")
+print(f"Girdiğiniz sayıların girme sırasına göre farkı: {x - y}")
+print(f"Girdiğiniz sayıların çarpımı: {x * y}")
+print(f"Girdiğiniz sayıların girme sırasına göre bölümü: {x / y}")
